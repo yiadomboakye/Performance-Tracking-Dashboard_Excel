@@ -22,6 +22,7 @@ Through this analysis, we aim to support data-driven decision-making, enabling t
 ### Data Source
 
 The dataset used for this project is the "Global_Superstore.csv" file. It contains detailed information on each sale made by the company, including order details, customer demographics, product categories, and financial metrics such as sales, profit, and discounts.
+- [Download here](https://github.com/yiadomboakye/Performance-Tracking-Dashboard_Excel/blob/main/Global_Superstore(CSV)%20(version%201).xl)
 
 ### Tools
 #### Excel
