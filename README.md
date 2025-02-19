@@ -25,7 +25,7 @@ The dataset used for this project is the "Global_Superstore.csv" file. It contai
 - [Download here](https://github.com/yiadomboakye/Performance-Tracking-Dashboard_Excel/blob/main/Global_Superstore(CSV)%20(version%201).xl)
 
 ### Tools
-#### Excel
+#### Microsoft Excel
 - Data Cleaning & Formatting – Ensured consistency and accuracy by loading and inspecting data, handling missing values, removing duplicates and standardizing data.
 - Pivot Tables – Used for in-depth analysis, summarizing sales, profit, and trends across different dimensions.
 - Charts & Visualizations – Created graphical representations of sales performance, trends, and key insights for better interpretation.
