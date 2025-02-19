@@ -5,7 +5,7 @@
 - [Project Overview](#Project-Overview)
 - [ Data Source](#Data-Source)
 - [Tools](#Tools)
-- [Exploaratory Data Analysis](#Exploratory-Data-Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Findings/Results](#Findings/Results)
 - [Recommendations](#Recommendations)
 
