@@ -62,5 +62,9 @@ The Exploratory Data Analysis (EDA) focused on uncovering key insights from the 
 - The company needs to conduct a detailed market analysis to identify the key factors contributing to the sales decline in Austria (-26.6%) and the Netherlands (-2.3%). This analysis should include customer feedback, competitive landscape evaluation, pricing strategies, and potential economic or industry-specific challenges affecting these markets.
 - Analyse the underlying factors contributing to profit declines in France (-3.7%), Austria (-34.4%), and Italy (-201.9%).
 - Identify factors contributing to the decline in gross sales within the corporate segment while leveraging the strong profit performance.
+
+💻
+🥇
+🙂
  
 
