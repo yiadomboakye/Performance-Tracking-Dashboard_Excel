@@ -22,7 +22,7 @@ Through this analysis, we aim to support data-driven decision-making, enabling t
 ### Data Source
 
 The dataset used for this project is the "Global_Superstore.csv" file. It contains detailed information on each sale made by the company, including order details, customer demographics, product categories, and financial metrics such as sales, profit, and discounts.
-- [Download here](https://github.com/yiadomboakye/Performance-Tracking-Dashboard_Excel/blob/main/Global_Superstore(CSV)%20(version%201).xl)
+- [Dataset](https://github.com/yiadomboakye/Performance-Tracking-Dashboard_Excel/blob/main/Global_Superstore(CSV)%20(version%201).xl)
 
 ### Tools
 #### Microsoft Excel
@@ -42,6 +42,9 @@ The Exploratory Data Analysis (EDA) focused on uncovering key insights from the 
   2. 	Economy Plus 2%
   3. Immediate	3%
   4. Priority	5%
+
+
+![Dashboard](https://github.com/user-attachments/assets/d5d1c968-62b0-4217-93a3-72b7ccd4bb39)
 
 ### Findings/Results
 - There has been a 32% increase in gross sales from the previous year to the current year.
